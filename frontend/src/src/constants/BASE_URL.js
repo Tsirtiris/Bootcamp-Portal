@@ -1,0 +1,2 @@
+//change to https://jobportal1-dkph.onrender.com if you want to use the deployed backend or use http://localhost:3003 if you want to run the application locally. start the backend app. 
+export const BASE_URL = "http://localhost:3003";
